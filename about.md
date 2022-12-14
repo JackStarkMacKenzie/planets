@@ -8,7 +8,7 @@ original and resulting outputs describe.
 Beneath is a table showing the focus each of our output files we processed
 had corrosponded to.
 
-| CoL Focus                      | Data file                          |                                     |
+| CoL Focus                      | Data file                          | Raw Data Url                        |            
 |--------------------------------|------------------------------------|-------------------------------------|                                                                      
 | First Time Mothers             | 1st-time-mothers-prop_dz_data.csv  | [First Time Mothers][1]             |                                                                      
 | Poor Household EPC Grades      | epc-prop_dz_data.csv               | [Poor Household EPC Grades][2]      |                                                           
