@@ -21,3 +21,8 @@ had corrosponded to.
 
 
 [1]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fage-at-first-birth
+[2]: https://statistics.gov.scot/data/domestic-energy-performance-certificates
+[3]: https://www.scotlandscensus.gov.uk/documents/2011-census-table-data-sns-data-zone-2011/
+[4]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fresidential-properties-sales-and-price
+[5]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Feducational-attainment-of-school-leavers
+[6]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-young-and-old
