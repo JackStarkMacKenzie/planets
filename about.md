@@ -49,4 +49,27 @@ EPC gradings, and then to also know how big the properties are in each datazone,
 into which datazones are struggling to pay for energy given poor epc gradings and smaller/more affordable
 housing.
 
-##
+## Large Families
+
+The Census provides a dataset on the amount of children in each family, for each datazone. Our resulting dataset                                                                                     
+is one that only filters through the families with three or more children and gives the proportion of families that
+have this many per datazone. As the cost of living rises providing for large families becomes more difficult and it
+wouldn't be unreasonable to suggest a lot of these families would be receiving child benefit.
+
+## Mean & Total Property Sales
+
+The resulting dataframe is an extraction of each datazone's mean and total property sales. The table was then
+pivoted so that we can see these figures as a time series between 2004-2021.
+
+## Mean School Attainment
+
+The raw data gives the mean of the highest grade every school leaver achieved before graduating. The mean is based on the highest level
+of qualification they achieved at grades C to A in National Qualifications or Skills for Work while at school. i.e. If a student's highest
+grade was a C, B or A in a Level 3 course, their highest grade is 3. If a D is achieved at a level 3 this gets rounded down to a level 2
+in which case the student's highest grade is scored as 2. Then all the leavers' scores are summed up and divded by the amount of
+school leavers in that datazone. The sum of all school leavers is totaled across a three year chunk between 2019-2021.
+
+## Proportion of Youth Population
+
+After filtering only the count of under 16 year olds per datazone, we created a resulting proportion feature of how much of
+a datazone's population is under 16.
