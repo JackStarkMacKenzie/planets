@@ -27,21 +27,21 @@ had corrosponded to.
 [5]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Feducational-attainment-of-school-leavers
 [6]: https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-young-and-old
 
-## Descriptions
+# Descriptions
 
-# First Time Mothers
+## First Time Mothers
 
 From the raw data we filtered and extracted first time mothers underneath the age of nineteen. Breaking down this dataset
 by datazone gives us a look at the proportion of potentially, financially disadvantaged young mothers and how they are                                                                               
 distributed throoughout the geographical area.
 
-# Poor Household EPC Grades
+## Poor Household EPC Grades
 
 For this dataset we extracted each UPRN's EPC rating from the raw data and arranged it to show the proportion
 of households that have an EPC rating of less than C for every datazone. The resulting dataset can aid an
 understanding of how each datazone is coping under the pressure of energy prices during this Cost of Living Crisis.
 
-# Total Household Floor Area
+## Total Household Floor Area
 
 From the same raw data set we used for Poor Household EPC Grades, we processed it instead to show the mean
 total floor area of households within every datazone. Knowing the proportion of households that have poor
@@ -49,4 +49,4 @@ EPC gradings, and then to also know how big the properties are in each datazone,
 into which datazones are struggling to pay for energy given poor epc gradings and smaller/more affordable
 housing.
 
-#
+##
